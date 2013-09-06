@@ -18,3 +18,9 @@ Wipes out the template and prompts the user to create a new one.
 ### Installation:
 
 Copy the program somewhere convienient and add an alias appropriate to your OS.
+
+For example, a UNIX/OSX/CygWin alias might look like:
+
+	alias hwfilegen="python3 /bin/hwfilegen.py"
+
+Take a look at [this Stack Overflow question](http://superuser.com/questions/49170/create-an-alias-in-windows-xp) for an idea of how this might work under Windows. Windows PowerShell users (included with [GitHub for Windows](http://windows.github.com/)) can refer to [this TechNet article](http://technet.microsoft.com/en-us/library/ee692685.aspx).
